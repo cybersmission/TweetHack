@@ -14,7 +14,7 @@
 #TweetHack.sh
 ``````
 # visit YouTube Channel To Watch Praticals Videos -  https://youtu.be/4T7TUL85KII
-# Step By Step Guide https://cybermissionposts.blogspot.com/
+# Step By Step Guide on Website - https://cybermissionposts.blogspot.com/
 
 
 * Disclaimber - This Tool Only For Education Purpose, Social Engineering Tool [TweetHack] 
